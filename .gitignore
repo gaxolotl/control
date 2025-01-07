@@ -1,4 +1,4 @@
-./dist
-./build
+dist/
+build/
 server.spec
 client.spec
